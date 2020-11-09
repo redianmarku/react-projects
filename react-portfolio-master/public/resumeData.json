@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Redian Marku",
+    "occupation": "ReactJS Developer && Python Developer",
+    "description": "Full Stack Web Developer by Day, Founder && Freelancer by Night.",
+    "image": "me.jpg",
+    "bio": "My name is Redian, I'm a Full Stack ReactJS Developer. Currently I'm working as a Freelancer while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "redian1marku@gmail.com",
+    "phone": "+355 6921 31 544",
+    "address": {
+      "street": "Kolumbia",
+      "city": "Mamurras",
+      "state": "AL",
+      "zip": "4057"
+    },
+    "website": "http://www.readydev.tk",
+    "resumedownload": "http://redianmarku.github.io",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/redi.marku.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/redianmarku",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/redian_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/redianmarku",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Mamurras High School",
+        "degree": "Still no degree",
+        "graduated": "January 2020",
+        "description": "Still no graduation"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Vet4Africa",
+        "title": "Software Engineer",
+        "years": "Aug 2019 - April 2020",
+        "description": "Building Vet4Africa platform and website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "30%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "GOSHOPAL",
+        "category": "Goshopal is an e-commerce website builded during a 2-days bootcamp. This website is builded using Python and Django framework.",
+        "image": "goshopal.png",
+        "url": "https://goshopal.herokuapp.com/"
+      },
+      {
+        "title": "Resulam",
+        "category": "Resulam is LMS platform builded for African people, I have co-worked on building this platform using Moodle.",
+        "image": "resulam.png",
+        "url": "http://13.93.29.207/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Very interactive app that looks pretty much like Netflix, its a Netflix clone builded using React JS framework.",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-7cf12.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "A simple covid-19 tracker app builded using React Js and Disease.sh API. Has a lot of components like map, country list, graph etc.",
+        "image": "covid.png",
+        "url": "http://covid-19-tracker.cf/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
